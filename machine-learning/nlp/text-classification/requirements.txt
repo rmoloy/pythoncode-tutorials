@@ -1,4 +1,0 @@
-tqdm
-numpy
-tensorflow==2.0.0
-sklearn
